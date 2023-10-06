@@ -108,6 +108,8 @@ Anatomy of html <p>My cat is very grumpy</p>
    b. Complies and executes  parsed JS <br>
    c. As browser does all above visual representations show up <br>
 
+   fgfgjh
+
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
