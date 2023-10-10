@@ -4,67 +4,70 @@
 Why HTML/CSS/JS/ is important. It seems like the start of really making anything that is even a little bit interesting. It is the crawling you need to do before the walking. 
 
 
-1. A poem about HTTP
-   http hypertext protocol does enthrall like a little phone call. To start it all out your computer says with a shout “Dear sever please fetch me the data this human wants to zoom in on” and the server replies “200 ok” even if you are on Broadway which is such a cliché. Sending packets with the speed of a cannonball. Packets are small as they travel the tubes and create little cubes; displayed for you on your screen what a scene.
+1. A poem about HTTP<br>
+  a. http hypertext protocol does enthrall like a little phone call. To start it all out your computer says with a shout “Dear sever please fetch me the data this human wants to zoom in on” and the server replies “200 ok” even if you are on Broadway which is such a cliché. Sending packets with the speed of a cannonball. Packets are small as they travel the tubes and create little cubes; displayed for you on your screen what a scene.
 
-2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
-Html and css are the first things the browser will render from top to bottom. Javascript follow second which is why we should not put a <script></script> tag in the middle of the doc unless you use defer which means the browser will run all html-css first then come back to javascript. Or you can just place it at the bottom before closing body tag
+2. Describe how HTML, CSS, and JS files are “parsed” in the browser.<br>
+    a. Html and css are the first things the browser will render from top to bottom. Javascript follow second which is why we should not put a <script></script> tag in the middle of the doc unless you use defer which means the browser will run all html-css first then come back to javascript. Or you can just place it at the bottom before closing body tag
 
-3.How can you find images to add to a Website?
+3.How can you find images to add to a Website?<br>
+   a. To find an image to use on a website you would first do an image search then open it to make sure it’s appropriate, Then you save the image somewhere that makes sense. As most images are copyrighted it is a good practice to make sure to use a COMMON CREATIVE LISENCE<br>
 
-To find an image to use on a website you would first do an image search then open it to make sure it’s appropriate, Then you save the image somewhere that makes sense. As most images are copyrighted it is a good practice to make sure to use a COMMON CREATIVE LISENCE
+4.How do you create a String vs a Number in JavaScript?<br>
+   a. To create a string in JS it needs to have quotes around it ex “23” or “twenty three” to create a number you do not need quotes, but it must be only number symbols and not words as words would get an error. Ex 23<br>
 
-4.How do you create a String vs a Number in JavaScript?
+5. What is a Variable and why are they important in JavaScript?<br>
+   a.  Variables store information for later use. It is important to use them to make interesting and flexible programs with values that can change.
 
-To create a string in JS it needs to have quotes around it ex “23” or “twenty three” to create a number you do not need quotes, but it must be only number symbols and not words as words would get an error. Ex 23
+7. What is an HTML attribute?<br>
+   a. Attributes provide information about about html elements like an href which says where the hyperlink will land
 
-5. What is a Variable and why are they important in JavaScript? Variables store information for later use. It is important to use them to make interesting and flexible programs with values that can change.
+8. Describe the Anatomy of an HTMl element. Taken from MDN docsar Anatomy of html<br>
 
-6. What is an HTML attribute? Attributes provide information about about html elements like an href which says where the hyperlink will land
+My cat is very grumpy<br>
 
-7. Describe the Anatomy of an HTMl element. Taken from MDN docsar Anatomy of html
+< p > opening tag<br>
+My cat is very grumpy -> content<br>
+< / p > closing tag<br>
+Entire thing is called element<br>
 
-My cat is very grumpy
+9. What Elements does a “typical” website include? Taken from MDN docs<br>
 
-< p > opening tag
-My cat is very grumpy -> content
-< / p > closing tag
-Entire thing is called element
-What is the Difference between < article > and < section > element tags? Taken from mdn docs
+   1. Header big strip across the top w. big heading, logo, tagline<br>
+   2. Nav bar link to sites main sections repped by menu button, links, tabs<br>
+   3. Main content, area in center contains most unique content of page like a video<br>
+   4. Sidebar -> peripheral info, links, quote, ads, ets usually contextual to main content<br>
+   5.Footer strip across the bottom of page generally contains fine print, copyright, notices, or contact information<br>
 
-encloses a block of related content that makes sense on it’s own w/o rest of page i.e. blogpost
-is similar but more for grouping together a single part of page that constitutes one single piece of function . ie mini map or set of article headlines or theme
-What Elements does a “typical” website include? Taken from MDN docs
+10.How does metadata influence Search Engine Optimization?
+   a. You are able to tag your doc with keywords that search engines pick up on which could increase the visibility of your website in a web search.
 
-8. Header big strip across the top w. big heading, logo, tagline
-Nav bar link to sites main sections repped by menu button, links, tabs
-Main content, area in center contains most unique content of page like a video
-Sidebar -> peripheral info, links, quote, ads, ets usually contextual to main content
-Footer strip across the bottom of page generally contains fine print, copyright, notices, or contact information
-How does metadata influence Search Engine Optimization?
-a. You are able to tag your doc with keywords that search engines pick up on which could increase the visibility of your website in a web search.
+11. How is the HTML tag used when specifying metadata?
+   a. The meta tag has the title, character set, author, keywords. Web browsers use meta to display html correctly
 
-9. How is the HTML tag used when specifying metadata?
-a. The meta tag has the title, character set, author, keywords. Web browsers use meta to display html correctly
+12. What is the first step to designing a Website?
+   a. What do I want to accomplish
 
-10. What is the first step to designing a Website?
-a. What do I want to accomplish
+13. What is the most important question to answer when designing a Website?
+   a. Is this really necessary and worth my time? Will it improve my life?
 
-11. What is the most important question to answer when designing a Website?
-a. Is this really necessary and worth my time? Will it improve my life?
+14. Why should you use an < h1 > element over a element to display a top level heading?
+   a. An h1 is default styled to a large font which make it look like the heading. Span makes things look like a top heading but has no semantic value
 
-12. Why should you use an < h1 > element over a element to display a top level heading?
-a. An h1 is default styled to a large font which make it look like the heading. Span makes things look like a top heading but has no semantic value
 
-13. Why should you use an < h1 > element over a element to display a top level heading?
-a. An h1 is default styled to a large font which make it look like the heading. Span makes things look like a top heading but has no semantic value
-
-14. What are the benefits of using semantic tags in our HTML?
+16. What are the benefits of using semantic tags in our HTML?
 a. Seo
 b. Screen readers can use it to navigate visually imapared people
 c. Finding meaningful blocks of code rather than going though all the div tags
 d. Suggests to the developer what kind of data will be populated
-e. Semantic naming mirrors pro
+e. Semantic naming mirrors program
+
+
+17. What two things are required to run jS in browser
+   a. animations and anything interactive
+
+19. How can you add JS to html doc.
+      a. by using the script tag < script > 
 
 ###class 1 md notes
 How the web works.
