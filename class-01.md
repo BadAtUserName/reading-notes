@@ -39,35 +39,35 @@ Entire thing is called element<br>
    4. Sidebar -> peripheral info, links, quote, ads, ets usually contextual to main content<br>
    5.Footer strip across the bottom of page generally contains fine print, copyright, notices, or contact information<br>
 
-10.How does metadata influence Search Engine Optimization?
-   a. You are able to tag your doc with keywords that search engines pick up on which could increase the visibility of your website in a web search.
+10.How does metadata influence Search Engine Optimization?<br>
+   a. You are able to tag your doc with keywords that search engines pick up on which could increase the visibility of your website in a web search.<br>
 
-11. How is the HTML tag used when specifying metadata?
-   a. The meta tag has the title, character set, author, keywords. Web browsers use meta to display html correctly
+11. How is the HTML tag used when specifying metadata?<br>
+   a. The meta tag has the title, character set, author, keywords. Web browsers use meta to display html correctly<br>
 
-12. What is the first step to designing a Website?
-   a. What do I want to accomplish
+12. What is the first step to designing a Website?<br>
+   a. What do I want to accomplish<br>
 
-13. What is the most important question to answer when designing a Website?
-   a. Is this really necessary and worth my time? Will it improve my life?
+13. What is the most important question to answer when designing a Website?<br>
+   a. Is this really necessary and worth my time? Will it improve my life?<br>
 
-14. Why should you use an < h1 > element over a element to display a top level heading?
-   a. An h1 is default styled to a large font which make it look like the heading. Span makes things look like a top heading but has no semantic value
-
-
-16. What are the benefits of using semantic tags in our HTML?
-a. Seo
-b. Screen readers can use it to navigate visually imapared people
-c. Finding meaningful blocks of code rather than going though all the div tags
-d. Suggests to the developer what kind of data will be populated
-e. Semantic naming mirrors program
+14. Why should you use an < h1 > element over a element to display a top level heading?<br>
+   a. An h1 is default styled to a large font which make it look like the heading. Span makes things look like a top heading but has no semantic value<br>
 
 
-17. What two things are required to run jS in browser
-   a. animations and anything interactive
+16. What are the benefits of using semantic tags in our HTML?<br>
+a. Seo<br>
+b. Screen readers can use it to navigate visually imapared people<br>
+c. Finding meaningful blocks of code rather than going though all the div tags<br>
+d. Suggests to the developer what kind of data will be populated<br>
+e. Semantic naming mirrors program<br>
 
-19. How can you add JS to html doc.
-      a. by using the script tag < script > 
+
+17. What two things are required to run jS in browser<br>
+   a. animations and anything interactive<br>
+
+19. How can you add JS to html doc.<br>
+      a. by using the script tag < script > <br>
 
 ###class 1 md notes
 How the web works.
