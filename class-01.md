@@ -1,6 +1,13 @@
-http hypertext protocol does enthrall like a little phone call. To start it all out your computer says with a shout “Dear sever please fetch me the data this human wants to zoom in on” and the server replies “200 ok” even if you are on Broadway which is such a cliché. Sending packets with the speed of a cannonball. Packets are small as they travel the tubes and create little cubes; displayed for you on your screen what a scene.
+### Reading questions follow by reading notes
 
-Describe how HTML, CSS, and JS files are “parsed” in the browser.
+
+Why HTML/CSS/JS/ is important. It seems like the start of really making anything that is even a little bit interesting. It is the crawling you need to do before the walking. 
+
+
+1. A poem about HTTP
+   http hypertext protocol does enthrall like a little phone call. To start it all out your computer says with a shout “Dear sever please fetch me the data this human wants to zoom in on” and the server replies “200 ok” even if you are on Broadway which is such a cliché. Sending packets with the speed of a cannonball. Packets are small as they travel the tubes and create little cubes; displayed for you on your screen what a scene.
+
+2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
 Html and css are the first things the browser will render from top to bottom. Javascript follow second which is why we should not put a <script></script> tag in the middle of the doc unless you use defer which means the browser will run all html-css first then come back to javascript. Or you can just place it at the bottom before closing body tag
 
 3.How can you find images to add to a Website?
@@ -11,11 +18,11 @@ To find an image to use on a website you would first do an image search then ope
 
 To create a string in JS it needs to have quotes around it ex “23” or “twenty three” to create a number you do not need quotes, but it must be only number symbols and not words as words would get an error. Ex 23
 
-What is a Variable and why are they important in JavaScript? Variables store information for later use. It is important to use them to make interesting and flexible programs with values that can change.
+5. What is a Variable and why are they important in JavaScript? Variables store information for later use. It is important to use them to make interesting and flexible programs with values that can change.
 
-What is an HTML attribute? Attributes provide information about about html elements like an href which says where the hyperlink will land
+6. What is an HTML attribute? Attributes provide information about about html elements like an href which says where the hyperlink will land
 
-Describe the Anatomy of an HTMl element. Taken from MDN docsar Anatomy of html
+7. Describe the Anatomy of an HTMl element. Taken from MDN docsar Anatomy of html
 
 My cat is very grumpy
 
@@ -29,7 +36,7 @@ encloses a block of related content that makes sense on it’s own w/o rest of p
 is similar but more for grouping together a single part of page that constitutes one single piece of function . ie mini map or set of article headlines or theme
 What Elements does a “typical” website include? Taken from MDN docs
 
-Header big strip across the top w. big heading, logo, tagline
+8. Header big strip across the top w. big heading, logo, tagline
 Nav bar link to sites main sections repped by menu button, links, tabs
 Main content, area in center contains most unique content of page like a video
 Sidebar -> peripheral info, links, quote, ads, ets usually contextual to main content
@@ -37,29 +44,29 @@ Footer strip across the bottom of page generally contains fine print, copyright,
 How does metadata influence Search Engine Optimization?
 a. You are able to tag your doc with keywords that search engines pick up on which could increase the visibility of your website in a web search.
 
-How is the HTML tag used when specifying metadata?
+9. How is the HTML tag used when specifying metadata?
 a. The meta tag has the title, character set, author, keywords. Web browsers use meta to display html correctly
 
-What is the first step to designing a Website?
+10. What is the first step to designing a Website?
 a. What do I want to accomplish
 
-What is the most important question to answer when designing a Website?
+11. What is the most important question to answer when designing a Website?
 a. Is this really necessary and worth my time? Will it improve my life?
 
-Why should you use an < h1 > element over a element to display a top level heading?
+12. Why should you use an < h1 > element over a element to display a top level heading?
 a. An h1 is default styled to a large font which make it look like the heading. Span makes things look like a top heading but has no semantic value
 
-Why should you use an < h1 > element over a element to display a top level heading?
+13. Why should you use an < h1 > element over a element to display a top level heading?
 a. An h1 is default styled to a large font which make it look like the heading. Span makes things look like a top heading but has no semantic value
 
-What are the benefits of using semantic tags in our HTML?
+14. What are the benefits of using semantic tags in our HTML?
 a. Seo
 b. Screen readers can use it to navigate visually imapared people
 c. Finding meaningful blocks of code rather than going though all the div tags
 d. Suggests to the developer what kind of data will be populated
 e. Semantic naming mirrors pro
 
-class 1 md notes
+###class 1 md notes
 How the web works.
 a. Clients and servers
 b. Clients web server interconnection device ie comp, phone, tablet & web accessing software
