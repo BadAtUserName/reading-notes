@@ -1,4 +1,4 @@
-##Reading notes class-02.md
+## Reading notes class-02.md
 All notes taken from the reading. 
 I.  Intro to HTML cont. <br> 
   a. See notes from first reading <br>
