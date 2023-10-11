@@ -297,6 +297,8 @@ Making Decisions in your Code.<br>
 3. What is the difference between the logical operator && and ||?<br>
 	a. The && is inclusive meaning if the condition is true for at least two things like is the number greater than zero AND less than 2. The | | represents or so it is one OR the other  to make the condition true such as is the number greater than zero OR is it less than 100 then do something to indicate it matches one criteria OR the other.<br>
           
-      
+
+      ## Things i want to know more about
+   	using conditionals correctly and making them more interesting. Looping correctly though things. I know how to make loops but i get a little stuck on them and would love some great practice examples of them 
 
   
