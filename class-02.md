@@ -240,7 +240,62 @@ e. -Switch statements<br>
   xii. --  on change event listener tht runs a function containg a ternary operator starts w. test condtion  like select  value = = =  “black” if this returns true we run update w. parenthese bladk and white we end up black background and whitd text. If T and inverted if F
 
     
-     
+  ## reading questions <br>
+  1. Why is it important to use semantic elements in our HTML?<br>
+	a. We use semantics to infer meaning in things like the symbols for an exit sign, or the play button on a remote or any media player. Similar with html when a user goes to a webpage they expect to see certain things like the h1 heading being big and bold and the title of the page. This is the reason we use h1 tags for just such things. This is why we format things to the unspoken rules of html. Search engines also use semantics to return requests, it is important to drive traffic and if your page is not adhering to the customs it will not be displayed in the results. <br>
+
+2. How many levels of headings are there in HTML?<br>
+	a. There are 6 from largest to smallest as h1 through h6<br>
+
+3. What are some uses for the <sup> and <sub> elements?<br>
+	a. We use sup (superscript) and sub (subscript) to do things like mark up dates in a way that’s readable, or math formulas. At my last job I created a system to track peoples schedules that needed to be editable, I ended up using superscript to accomplish this. It really cut down on the amount of hours we spent typing that schedule over and over in emails. <br>
+
+4. When using the <abbr> element, what attribute must be added to provide the full expansion of the term?<br>
+	a. You need to provide the full term following abbreviation so the user knows what the abbreviation stands for. You can also add in title so users have some context. <br>
+
+
+How is css structured<br>
+
+What are ways we can apply CSS to our HTML?<br>
+	a. You can link a style sheet using href to attach css to an html doc. You can also use an internal stylesheet using the <style> tag, this is nice if yo are not allowed to change the css doc.<br> 
+
+2. Why should we avoid using inline styles?<br>
+	a. Using inline styling as it is inefficient, sloppy, and makes the code hard to read and understand. These are not good practices in programming.<br> 
+
+3. Review the block of code below and answer the following questions:<br>
+	1. What is representing the selector? <br>
+		a. The h1 tag is the selector<br>
+	2. Which components are the CSS declarations?<br> 
+		a. The Declarations are color and padding<br>
+	3. Which components are considered properties? <br>
+		a. The properties which are readable also by humans. In this code example the properties are black and 5px.<br>
+
+
+Learn JS<br>
+
+What data type is a sequence of text enclosed in single quote marks?<br>
+	a. A string is enclosed in single quotes it can be enclosed in double quotes as well but it is the custom of JS to use single quotes for strings.<br>
+
+2. List 4 types of JavaScript operators.<br>
+	a. Operators are mathematical symbols here is a list of 5<br> 
+		1. + addition<br>
+		2.  - 8 /  subtraction multiplication and division<br>
+		3. = assignment <br>
+		4. === strict equal<br>
+		5. ! an !== does not equal<br>
+
+3. Describe a real world Problem you could solve with a Function<br>
+	a. Anything you would want repeated at any point can be solved with a function. An easy example is preforming maths you can set your function up to do whatever maths you want, and then set the arguments to be entered when you call your function, this makes your program flexible, changeable, useable.<br>
+
+Making Decisions in your Code.<br> 
+	1. An if statement checks a __ and if it evaluates to ___, then the code block will execute
+		a. Condition, True  are the words missing from the question<br>
+
+2.  What is the use of an else if?<br>
+	a. The use of an If Else statement is that the first condition checks for true and if it is not true the code for the else runs. It gives the program two choices. If the if does not run then the else will run. <br>
+
+3. What is the difference between the logical operator && and ||?<br>
+	a. The && is inclusive meaning if the condition is true for at least two things like is the number greater than zero AND less than 2. The | | represents or so it is one OR the other  to make the condition true such as is the number greater than zero OR is it less than 100 then do something to indicate it matches one criteria OR the other.<br>
           
       
 
